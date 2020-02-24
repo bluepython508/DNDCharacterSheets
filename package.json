@@ -1,0 +1,10 @@
+{
+  "name": "dnd-character-sheets",
+  "version": "0.0.0",
+  "description": "A Dungeons and Dragons 5e character sheet management library.",
+  "main": "index.js",
+  "repository": "git@github.com:bluepython508/DNDCharacterSheets.git",
+  "author": "<bluepython508@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
